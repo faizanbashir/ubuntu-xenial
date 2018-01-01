@@ -1,7 +1,7 @@
-# docker_ubuntu-xenial
+# Docker ubuntu-xenial
 Docker image for Ubuntu Xenial (16.04) with common packages installed
 
-## Pull the docker image
+## Pull the docker image from Docker Hub
 `docker pull faizanbashir/ubuntu-xenial`
 
 ### List of installed packages:
