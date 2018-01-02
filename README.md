@@ -2,7 +2,13 @@
 Docker image for Ubuntu Xenial (16.04) with common packages installed
 
 ## Pull the docker image from Docker Hub
-`docker pull faizanbashir/ubuntu-xenial`
+`docker pull faizanbashir/ubuntu-xenial:latest`
+
+## Use this image in Dockerfile
+`From faizanbashir/ubuntu-xenial:latest`
+
+## Run as container
+`docker run -d -i -t faizanbashir/ubuntu-xenial:latest /bin/bash`
 
 ### List of installed packages:
 1. build-essential 
