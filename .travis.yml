@@ -2,4 +2,5 @@ services:
   - docker
 
 script:  
-  - docker-compose up -d
+  - docker run -d -i -t faizanbashir/ubuntu-xenial:latest /bin/bash
+  - docker ps
