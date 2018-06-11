@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/faizanbashir/ubuntu-xenial.svg?branch=master)](https://travis-ci.org/faizanbashir/ubuntu-xenial)
 # Docker ubuntu-xenial
 Docker image for Ubuntu Xenial (16.04) with common packages installed
 
